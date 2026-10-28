@@ -106,5 +106,3 @@ www/js/*
 # MacOS
 .DS_Store
 
-# Packaged extension (npm run package)
-*.foxe

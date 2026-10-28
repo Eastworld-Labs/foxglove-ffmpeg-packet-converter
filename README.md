@@ -31,3 +31,7 @@ Then open the recording, add an **Image** panel and pick the topic that ends in
 
 Checked on WAGMI recordings: three 640x480 H.264 streams, `/center_camera/image_raw/ffmpeg`,
 `/left_camera/image_raw/ffmpeg`, `/right_camera/image_raw/ffmpeg`.
+
+## Download
+
+The built extension is `local.foxglove-ffmpeg-packet-converter-0.0.0.foxe` in this repository. Rebuild it with `npm run package` after changing the source.
